@@ -1,0 +1,58 @@
+/* Write your CSS here */
+.bg-page {
+  background-image: linear-gradient(to left, #e2a139, #f9d423);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  background-color: #ffffff;
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  border: none;
+}
+.heading {
+  color: #a35200;
+  font-size: 34px;
+  font-weight: 500;
+  font-family: 'Roboto';
+}
+.para {
+  color: #334155;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  margin-top: -7px;
+}
+.toss-image {
+  width: 170px;
+}
+.toss-btn {
+  height: 26px;
+  width: 80px;
+  padding: 5px;
+  background-color: #f9d423;
+  color: #a35200;
+  border-radius: 6px;
+  border: none;
+  margin-top: 15px;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: 'Roboto';
+}
+.status-container {
+  display: flex;
+  justify-content: center;
+  color: #475569;
+  font-size: 14px;
+  font-weight: 500;
+}
+.bottom {
+  margin-right: 36px;
+}
